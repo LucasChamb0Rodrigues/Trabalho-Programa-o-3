@@ -1,0 +1,14 @@
+/Users/lucaschambo/Downloads/ExerciciosConsole/bin/Debug/net8.0/ExerciciosConsole
+/Users/lucaschambo/Downloads/ExerciciosConsole/bin/Debug/net8.0/ExerciciosConsole.deps.json
+/Users/lucaschambo/Downloads/ExerciciosConsole/bin/Debug/net8.0/ExerciciosConsole.runtimeconfig.json
+/Users/lucaschambo/Downloads/ExerciciosConsole/bin/Debug/net8.0/ExerciciosConsole.dll
+/Users/lucaschambo/Downloads/ExerciciosConsole/bin/Debug/net8.0/ExerciciosConsole.pdb
+/Users/lucaschambo/Downloads/ExerciciosConsole/obj/Debug/net8.0/ExerciciosConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucaschambo/Downloads/ExerciciosConsole/obj/Debug/net8.0/ExerciciosConsole.AssemblyInfoInputs.cache
+/Users/lucaschambo/Downloads/ExerciciosConsole/obj/Debug/net8.0/ExerciciosConsole.AssemblyInfo.cs
+/Users/lucaschambo/Downloads/ExerciciosConsole/obj/Debug/net8.0/ExerciciosConsole.csproj.CoreCompileInputs.cache
+/Users/lucaschambo/Downloads/ExerciciosConsole/obj/Debug/net8.0/ExerciciosConsole.dll
+/Users/lucaschambo/Downloads/ExerciciosConsole/obj/Debug/net8.0/refint/ExerciciosConsole.dll
+/Users/lucaschambo/Downloads/ExerciciosConsole/obj/Debug/net8.0/ExerciciosConsole.pdb
+/Users/lucaschambo/Downloads/ExerciciosConsole/obj/Debug/net8.0/ExerciciosConsole.genruntimeconfig.cache
+/Users/lucaschambo/Downloads/ExerciciosConsole/obj/Debug/net8.0/ref/ExerciciosConsole.dll
